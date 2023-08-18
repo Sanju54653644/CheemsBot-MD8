@@ -1,10 +1,10 @@
-const chalk = require("chalk")
+uconst chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
 
@@ -22,26 +22,26 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['917047294917'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ownernomer = "917047294917" //ur owner number2
+global.ownername = "𝚁𝚊𝚖 𝚌𝚑𝚊𝚛𝚊𝚗" //ur owner name
+global.ytname = "YT: 𝐒 𝐌𝐮𝐬𝐢𝐜 𝐏𝐮𝐫𝐮𝐥𝐢𝐚" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
+global.botname = "𝑺 𝑴𝒖𝒔𝒊𝒄 𝑷𝒖𝒓𝒖𝒍𝒊𝒂 𝑽10"
+global.ownernumber = '917047294917'
+global.ownername = '𝑹𝑨𝑴 𝑪𝑯𝑨𝑹𝑨𝑵'
+global.ownerNumber = ["917047294917@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@smusicpurula"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botscript = 'https://chat.whatsapp.com/KaV88iiRCBK2EbMOWEBlc9' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🔰𝑹𝒂𝒎 𝑪𝒉𝒓𝒂𝒏\n\n"
+global.creator = "917047294917@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
